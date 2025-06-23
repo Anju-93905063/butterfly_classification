@@ -49,7 +49,7 @@ Go to "Predict" → upload an image → preview appears → click "Predict" to g
 2. **Prediction Request:** On submitting, the image is sent to Flask backend.  
 3. **Model Inference:** The `app.py` script loads `vgg16_model.h5`, preprocesses the image, and predicts the species.  
 4. **Display Result:** The predicted butterfly name is returned and shown on the webpage.
-5. <img width="959" alt="image" src="https://github.com/user-attachments/assets/7b975019-dede-445d-b8a5-e8c5abe745dc" />
+<img width="545" alt="image" src="https://github.com/user-attachments/assets/c5eddae7-db4d-4f83-b13b-1a13b36862bd" />
 
 
 
